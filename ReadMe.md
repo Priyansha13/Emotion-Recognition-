@@ -1,6 +1,6 @@
 # 📸 Real-Time Face Emotion Detection Application
 
-This repository contains a real-time face emotion detection application using OpenCV, Keras, and a pre-trained deep learning model. The application captures images from the webcam, detects faces, and recognizes emotions.
+This repository contains a real-time face emotion detection application using OpenCV, Keras, and a custom CNN model. The application captures images from the webcam, detects faces, and recognizes emotions.
 
 ## 📋 Table of Contents
 - [Installation](#installation)
