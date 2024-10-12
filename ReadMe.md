@@ -72,12 +72,6 @@ Make sure to add emotion_model.h5 to models
 ## Requirements
 Ensure you have the dependencies installed. You can install them using the requirements.txt file.
 
-### How to Save the README
-
-1. **Save the content above in a file named `README.md`.**
-2. **Place the `README.md` file in the root directory of your GitHub repository.**
-
-### Additional Recommendations
 
 - **Update the `git clone` URL** to your actual repository URL.
 - **Replace `your_script_name.py`** with the actual name of your Python script file.
