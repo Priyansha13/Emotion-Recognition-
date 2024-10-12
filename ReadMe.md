@@ -8,7 +8,6 @@ This repository contains a real-time face emotion detection application using Op
 - [Project Structure](#project-structure)
 - [Models](#models)
 - [Requirements](#requirements)
-- [License](#license)
 
 ## 📥 Installation
 
