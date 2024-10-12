@@ -38,7 +38,7 @@ This repository contains a real-time face emotion detection application using Op
 
 1. **Run the application:**
     ```bash
-    python your_script_name.py
+    python app.py
     ```
 
 2. The application will open a webcam preview window. You can:
@@ -60,7 +60,7 @@ emotion-recognition/
 │   └── haarcascade_frontalface_default.xml
 │
 ├── requirements.txt
-├── your_script_name.py
+├── app.py
 ├── README.md
 └── .gitignore
 ```
